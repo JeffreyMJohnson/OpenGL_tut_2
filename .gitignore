@@ -181,3 +181,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+/CMakeFiles
+/tutorial01_first_window/tutorial01_first_window.exe
+/CMakeCache.txt

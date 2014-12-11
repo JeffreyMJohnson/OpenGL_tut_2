@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+C:/Users/Jeffrey/Documents/GitHub/OpenGL_tut_2/external/glfw-3.0.3/CMakeLists.txt
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindOpenGL.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CheckIncludeFiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CheckSymbolExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeConfigurableFile.in
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindDoxygen.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+C:/Users/Jeffrey/Documents/GitHub/OpenGL_tut_2/external/glfw-3.0.3/docs/Doxyfile.in
+C:/Users/Jeffrey/Documents/GitHub/OpenGL_tut_2/external/glfw-3.0.3/src/config.h.in
+C:/Users/Jeffrey/Documents/GitHub/OpenGL_tut_2/external/glfw-3.0.3/src/glfwConfig.cmake.in
+C:/Users/Jeffrey/Documents/GitHub/OpenGL_tut_2/external/glfw-3.0.3/src/glfwConfigVersion.cmake.in

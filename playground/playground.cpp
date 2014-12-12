@@ -43,8 +43,11 @@ int main( void )
 	glfwSetInputMode(window, GLFW_STICKY_KEYS, GL_TRUE);
 
 	// Dark blue background
-	glClearColor(0.0f, 0.0f, 0.4f, 0.0f);
+	glClearColor(0.0f, 0.0f, 0.4f, 1.0f);
 
+
+	printf("OpenGL version supported by this platform (%s): \n",
+		glGetString(GL_VERSION));
 	do{
 		// Draw nothing, see you in tutorial 2 !
 
